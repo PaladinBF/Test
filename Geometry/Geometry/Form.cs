@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Geometry
 {
     /// <summary>
-    /// Абстрактный класс калькулятора
+    /// Абстрактный класс калькулятора!
     /// </summary>
     public abstract class Form
     {

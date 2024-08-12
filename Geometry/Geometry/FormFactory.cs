@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Geometry
 {
     /// <summary>
-    /// Клас для создания фигур 
+    /// Клас для создания фигур! 
     /// </summary>
     public static class FormFactory
     {

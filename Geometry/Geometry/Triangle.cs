@@ -19,7 +19,7 @@ namespace Geometry
         {
             //проверка на правильность переданных данных
             if (!ValidTriangle(a, b, c))
-                throw new ArgumentException("Нет возможности построить треугольник, проверьте данные");
+                throw new ArgumentException("Нет возможности построить треугольник, проверьте данные!");
 
             A = a;
             B = b;

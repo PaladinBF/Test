@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Geometry
 {
     /// <summary>
-    /// Класс вычисления площади круга
+    /// Класс вычисления площади круга!
     /// </summary>
     public class Circle : Form
     {
